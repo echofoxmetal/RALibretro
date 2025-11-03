@@ -11,6 +11,7 @@
 [submodule "src/RAInterface"]
 	path = src/RAInterface
 	url = https://github.com/echofoxmetal/RAInterface.git
+	branch = master
 [submodule "src/rcheevos"]
 	path = src/rcheevos
 	url = https://github.com/RetroAchievements/rcheevos.git
@@ -18,4 +19,5 @@
 	path = src/libchdr
 	url = https://github.com/rtissera/libchdr.git
 	ignore = untracked
+
 
